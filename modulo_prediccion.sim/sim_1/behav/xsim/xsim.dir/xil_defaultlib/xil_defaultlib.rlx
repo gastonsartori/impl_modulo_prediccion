@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/sarto/practico_move/practico_move.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+C:/Users/sarto/practico_move/practico_move.srcs/sim_1/new/testbench.v,1639273860,verilog,,,,testbench,,,,,,,,
+C:/Users/sarto/practico_move/practico_move.srcs/sources_1/new/CORDIC.v,1639166021,verilog,,C:/Users/sarto/practico_move/practico_move.srcs/sources_1/new/predict_stage.v,,CORDIC_sincosin,,,,,,,,
+C:/Users/sarto/practico_move/practico_move.srcs/sources_1/new/predict_stage.v,1639250745,verilog,,C:/Users/sarto/practico_move/practico_move.srcs/sim_1/new/testbench.v,,predict_stage,,,,,,,,
